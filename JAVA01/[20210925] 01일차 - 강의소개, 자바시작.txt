@@ -1,0 +1,130 @@
+#####
+09:13
+#####
+
+참고
+- 출석체크는 비대면 먼저 부르고, 대면 부릅니다.
+-> 비대면은 줌에 참여하고 있으시면
+   제가 이름만 호명하고 체크합니다.
+   대면은 호명하면 대답해주시면 됩니다.
+
+###########################################
+
+구글
+
+검색어 : [java 8 jdk]
+https://www.oracle.com/kr/java/technologies/javase/javase8u211-later-archive-downloads.html
+
+검색어 : [eclipse luna]
+https://www.eclipse.org/downloads/packages/release/luna/sr2
+
+Eclipse IDE for Java EE Developers
+(Enterpirse Edition)
+Windows 32-bit x86_64
+- 이걸 다운로드 받자
+
+검색어 : [notepad++]
+- 필수 X, 선택 O
+https://notepad-plus-plus.org/downloads/
+
+#######
+10:18
+#######
+
+프로그램 
+- 사람이 컴퓨터에게 시키고자 하는일 만들어둔 문서다 
+- 프로그램을 만든다 : 문서작성 
+- 사무직 
+
+프로그래밍 (코딩)
+- 프로그램을 만드는 일
+- 컴퓨터에게 시킬일을 문서 파일로 작성하는 일
+
+프로그래머
+- 프로그래밍 하는 사람
+- 문서작성하는 사람
+-> 컴퓨터가 알아들을 수 있는 특수한 문서를 작성하는 사람
+
+
+웹 프로그래밍 : 웹 브라우저에서 동작하는 프로그램 만들기
+모바일 프로그래밍 : 모바일 스마트폰에서 ....
+데스크탑 프로그래밍 : 데스크탑 애플리케이션 만들기 
+
+-> 앞에 부분을 플랫폼
+
+자바 웹 프로그래밍 입문
+- 취업하기에는 그나마 좀 나은 기술 
+
+윈도우 - 명령 프롬프트 실행 (CMD 입력후 엔터)
+- 까만화면이 뜬다.
+
+java -version
+javac -version
+
+
+java 8 jdk
+
+java development kit 
+
+검색어 : 자바 8 환경변수설정
+
+C:\Program Files\Java\jdk1.8.0_291
+C:\Program Files\Java\jdk1.8.0_291
+
+내PC - 우클릭 - 속성 - 고급 시스템 설정
+- 환경 변수 - 시스템 변수 - 새로 만들기
+
+변수 이름 : JAVA_HOME
+변수 값 : C:\Program Files\Java\jdk1.8.0_291
+
+환경 변수 - Path - 편집 - 새로 만들기
+
+%JAVA_HOME%\bin
+
+[위로 이동] 끝까지 올려주자
+
+java -version
+javac -version
+
+
+자바 환경변수 설정의 의미
+- 자바 프로그래밍을 위한 바로가기 아이콘을 만든것과 같다.
+
+java.exe
+javac.exe 
+
+###################################
+지금까지 한거
+- java 8 버전 jdk 설치 
+- java 8 환경변수 설정
+###################################
+
+#####
+11:34
+#####
+
+C:\SBSJSP-LJH
+여기에 [새 텍스트 문서.txt] 만들기
+이름을 바꾸자
+-> HelloJava.java
+-> 대소문자 정확히
+
+명령프롬프트에
+javac HelloJava.java
+- HelloJava.class 파일이 생성된다.
+
+java HelloJava
+
+#######################################
+
+[숙제] 집에서 해보기 
+오리엔테이션
+Java 8 JDK 설치 
+Java 8 환경변수 설정
+프로그램 / 프로그래밍 / 프로그래머 / 웹 프로그래밍
+HelloJava.java 작성
+HelloJava 프로그램 실행
+
+#######################################
+
+
